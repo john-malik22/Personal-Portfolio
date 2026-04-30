@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/personal-portfolio/
+👉 https://john-malik22.github.io/Personal-Portfolio/
 
 ---
 
